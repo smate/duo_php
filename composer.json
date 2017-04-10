@@ -1,6 +1,6 @@
 {
     "name": "smate/duo_php",
-    "description": "A PHP implementation of the Duo Web SDK.",
+    "description": "A PHP implementation of the Duo Web SDK. With PHP 5.5 support",
     "homepage": "https://duo.com/",
     "support": {
         "email": "support@duosecurity.com"
