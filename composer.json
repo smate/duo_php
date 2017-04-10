@@ -1,5 +1,5 @@
 {
-    "name": "duosecurity/duo_php",
+    "name": "smate/duo_php",
     "description": "A PHP implementation of the Duo Web SDK.",
     "homepage": "https://duo.com/",
     "support": {
